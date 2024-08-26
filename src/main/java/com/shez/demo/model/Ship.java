@@ -4,7 +4,7 @@ package com.shez.demo.model;
  * Data model class for a ship.
  */
 public class Ship {
-    private long id = 0;
+    private long id = 1;
     private String model;
     private String description;
     private boolean flown = false;

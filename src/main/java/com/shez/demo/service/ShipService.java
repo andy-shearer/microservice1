@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Service component that implement CRUD methods and custom finder methods. It will be autowired in ShipController
+ * Service component that implement CRUD methods and custom finder methods. Autowired in ShipController
  */
 @Service
 public class ShipService {
